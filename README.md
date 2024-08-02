@@ -1,3 +1,5 @@
+# Photo Social Web Application Back-End
+
 ## Overview
 
 The back-end component of the web application is built using PHP and the CodeIgniter framework. It serves as the server-side logic, handling database interactions, user authentication, and providing a RESTful API for client-side data exchange.
